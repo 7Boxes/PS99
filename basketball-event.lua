@@ -23,6 +23,8 @@ local Config = {
         Vector3.new(1470, 17, -22416),
         Vector3.new(1471, 17, -22485),
         Vector3.new(1504, 17, -22487),
+        Vector3.new(1533, 17, -22415),
+        Vector3.new(1525, 17, -22483),
         Vector3.new(1508, 17, -22420)
     }
 }
